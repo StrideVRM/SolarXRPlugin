@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "SolarXRPlugin",
+	"Description": "Plugin For SolarXR Integration",
+	"Category": "Tracking",
+	"CreatedBy": "StrideVRM",
+	"CreatedByURL": "https://github.com/StrideVRM",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "SolarXRPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
